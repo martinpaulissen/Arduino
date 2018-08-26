@@ -1,2 +1,2 @@
 # Arduino
-Stuff for the arduino course with the young investigators in Groningen
+We starten op 7 september net het nieuwe september
